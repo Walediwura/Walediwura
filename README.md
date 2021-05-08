@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Walediwura
-- 👀 I’m interested in ...Javscript
+- 👀 I’m interested in ...Javascript
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...walediwura@gmail.com
