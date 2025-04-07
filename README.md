@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Walediwura
-- 👀 I’m interested in ...Python & Javascript
-- 🌱 I’m currently learning ...Python & Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Java & Javascript
+- 💞️ I’m looking to collaborate on ffascinating and stimulating projects
 - 📫 How to reach me ...walediwura@gmail.com
 
 <!---
