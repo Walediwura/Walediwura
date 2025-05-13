@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walediwura
+- 👋 Hi, I’m @Walediwura a Software Engineer
 - 👀 I’m interested in ...Java & Javascript
 - 💞️ I’m looking to collaborate on fascinating and stimulating projects
 - 📫 How to reach me ...walediwura@gmail.com
