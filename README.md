@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Walediwura
 - 👀 I’m interested in ...Java & Javascript
-- 💞️ I’m looking to collaborate on ffascinating and stimulating projects
+- 💞️ I’m looking to collaborate on fascinating and stimulating projects
 - 📫 How to reach me ...walediwura@gmail.com
 
 <!---
