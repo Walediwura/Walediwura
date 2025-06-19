@@ -19,7 +19,7 @@ I'm a passionate Software Engineer always eager to learn new technologies and co
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/favour-adewale-949445212)
-- [Gmail] - fadewale2016@gmail.com
+- [Gmail](fadewale2016@gmail.com)
 
 ## ⚡ Fun Fact
 I’m always looking for interesting collaborations and open-source contributions. Feel free to reach out or open an issue/PR!
