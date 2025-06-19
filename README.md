@@ -6,14 +6,13 @@ Welcome to my GitHub profile!
 I'm a passionate Software Engineer always eager to learn new technologies and collaborate on exciting projects. Whether it's building robust backends, designing intuitive frontends, or exploring emerging tools, I love turning ideas into reality through code.
 
 ## 🛠️ Skills & Tools
-- **Languages:** JavaScript, TypeScript, Python, Go, Java
-- **Frameworks:** React, Node.js, Express, Django, Flask
-- **DevOps:** Docker, GitHub Actions, CI/CD
-- **Other:** REST APIs, GraphQL, SQL/NoSQL, Cloud Platforms
+- **Languages:** JavaScript, TypeScript, Java.
+- **Frameworks:** React, Next.js, Node.js, Express, Springboot.
+- **Other:** REST APIs, GraphQL, SQL/NoSQL.
 
 ## 🌟 Featured Projects
-- [Project 1](#) – Short description of a standout project.
-- [Project 2](#) – Another project highlight.
+- [Smart Reply](https://github.com/Walediwura/smart-reply) – A Simple LLM powered Mail Reply Generator built as an LLM Wrapper using Springboot and Google's Gemini.
+- [dTechGuyX Folio](https://www.dtechguyx.com/) – A sleek minimalistic portfolio for a designer friend.
 
 *Want to see more? Check out my pinned repositories below!*
 
